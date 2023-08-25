@@ -1,10 +1,3 @@
-<h1 align="center">Hi, I'm Can</h1>
-<h3 align="center">Frontend Developer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/cndgdvrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cndgdvrn" height="30" width="40" /></a>
-</p>
 
 <h1 align="center">Hi, I'm Can</h1>
 <h3 align="center">Frontend Developer</h3>
