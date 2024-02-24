@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Can and I'm a software developer.</h3>
+<h2 align="left">Hi 👋! My name is Can and I'm a software developer.</h2>
 
 ###
 
@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/cndgdvrn/cndgdvrn/output/snake.svg" alt="Snake animation" />
+
 
 ###
