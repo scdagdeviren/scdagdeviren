@@ -45,7 +45,3 @@
 
 
 
-
-![snake gif](https://github.com/cndgdvrn/cndgdvrn/blob/output/github-contribution-grid-snake.gif)
-
-
