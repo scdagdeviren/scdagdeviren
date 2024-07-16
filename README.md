@@ -43,3 +43,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cndgdvrn&" alt="cndgdvrn" /></p>
 
 
+
+
+
+![snake gif](https://github.com/cndgdvrn/cndgdvrn/blob/output/github-contribution-grid-snake.gif)
+
+
