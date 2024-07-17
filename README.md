@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Can</h1>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Can</h1>
 <h3 align="center">Software Engineer</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,9 +44,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cndgdvrn&" alt="cndgdvrn" /></p>
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/cndgdvrn/count.svg?"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cndgdvrn-badge" style="max-width:100%;">
 </div>
+
+</div>
+
+
 
 
 
